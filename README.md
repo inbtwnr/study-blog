@@ -1,1 +1,1 @@
-# study-blog
+# Welcome to my pet project!
